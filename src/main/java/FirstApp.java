@@ -4,5 +4,6 @@ public class FirstApp {
 
 //        System.out.println("프로젝트 회의");
         System.out.println("열심히 좀 합시다.");
+        System.out.println("열심히 하겠습니다.");
     }
 }
